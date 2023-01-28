@@ -17,3 +17,15 @@ nav a{
 main section{
     text-align: center;
 }
+#background{
+    height: 725px;
+}
+body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+    background-color: black;
+}
