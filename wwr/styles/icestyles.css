@@ -1,26 +1,46 @@
 body{
     background-color: pink;
+    width: 500px;
+    margin: 0 auto;
 }
 main {
     text-align: center;
-    margin: 50px auto;
 }
 h1{
     color: white;
     size: 100px;
 }
+h3{
+    color: white;
+    size: 100px;
+}
+li{
+    text-align: left;
+}
 p{
     color: white;
     max-width: 75%;
-}
-div{
-    text-align: left;
-    padding-left: 550px;
+    margin: 0 auto;
+
 }
 img{
-    width: 15%;
-    height: 15%;
+    width: 30%;
+    height: 30%;
 }
-* {
+h2{
+    font-size: 30px;
+    margin: 0 auto;
+    color:white;
+    max-width: 250px;
+}
+h6{
+    color: black;
+    font-size: 12px;
+    margin: 0;
+}
+ol{
+    padding-left: 115px;
+}
+/* * {
     border: 2px solid blue;
-}
+} */
